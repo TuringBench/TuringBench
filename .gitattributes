@@ -1,1 +1,2 @@
 TuringBench.zip filter=lfs diff=lfs merge=lfs -text
+TuringBench.tar.gz filter=lfs diff=lfs merge=lfs -text
